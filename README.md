@@ -2,7 +2,7 @@
 
 - 📊📈💾
 
-![Imagem de Banco de Dados]([URL_DA_SUA_IMAGEM](https://github.com/andreriffen/relational-sql/blob/main/sql.jpg))
+![Imagem de Banco de Dados]([URL_DA_SUA_IMAGEM](https://raw.githubusercontent.com/andreriffen/relational-sql/main/sql.jpg))
 
 Bem-vindo ao repositório do **Exercício de Banco de Dados - Exemplos**. Este é um projeto introdutório que cria um banco de dados chamado "exemplos" com duas tabelas, "pessoas" e "telefones", para ilustrar a relação entre entidades em um sistema de gerenciamento de banco de dados relacional.
 
