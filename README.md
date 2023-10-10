@@ -4,37 +4,11 @@
 
 ![Imagem de Banco de Dados](https://raw.githubusercontent.com/andreriffen/relational-sql/main/sql.jpg)
 
-Bem-vindo ao repositório do **Exercício de Banco de Dados - Exemplos**. Este é um projeto introdutório que cria um banco de dados chamado "exemplos" com duas tabelas, "pessoas" e "telefones", para ilustrar a relação entre entidades em um sistema de gerenciamento de banco de dados relacional.
+Bem-vindo ao repositório do **Exercícios de Banco de Dados**. Este é um projeto introdutório que demonstra algumas práticas aprendidas em sala de aula na disciplina de Banco de Dados.
 
 ## ℹ️ Descrição
 
-Neste exercício, estamos criando um banco de dados chamado "exemplos" com duas tabelas, "pessoas" e "telefones", para demonstrar a relação entre entidades em um sistema de gerenciamento de banco de dados relacional. A tabela "pessoas" armazena informações individuais, como nomes e endereços de e-mail, com um identificador exclusivo para cada pessoa. A tabela "telefones" está relacionada à tabela "pessoas" por meio de uma chave estrangeira, permitindo associar números de telefone a pessoas específicas. Isso destaca a capacidade do banco de dados em estabelecer conexões entre diferentes tabelas, criando uma estrutura eficiente para armazenar informações inter-relacionadas, um conceito fundamental em bancos de dados relacionais.
-
-## ⚙️ Tabelas
-
-### Tabela: Pessoas
-
-A tabela "pessoas" armazena informações individuais, como nomes e endereços de e-mail, com um identificador único para cada pessoa.
-
-Campos da tabela "pessoas":
-- `id` (Chave Primária): Identificador único de cada pessoa.
-- `nome`: Nome da pessoa.
-- `email`: Endereço de e-mail da pessoa.
-
-### Tabela: Telefones
-
-A tabela "telefones" está relacionada à tabela "pessoas" por meio de uma chave estrangeira, permitindo associar números de telefone a pessoas específicas.
-
-Campos da tabela "telefones":
-- `id` (Chave Primária): Identificador único de cada número de telefone.
-- `numero`: Número de telefone.
-- `pessoa_id` (Chave Estrangeira): Referência à pessoa associada a este número de telefone.
-
-Esse é um conceito fundamental em bancos de dados relacionais, onde a organização e a relação entre dados desempenham um papel crucial.
-
-## 👨‍💻 Instruções de Uso
-
-Forneça aqui quaisquer instruções adicionais sobre como utilizar o banco de dados "exemplos" ou exemplos de consultas SQL.
+Nestes exercícios, abordamos uma revisão dos comandos básicos CRUD em SQL, junções com chaves primárias e chaves estrangeiras, funções de rotina e algumas stored procedures. Na ocasião foi usado Wampserver64 na interface 'PHP My Admin', onde eu e todos os alunos ficamos por um semestre aprendendo e praticando a construção destas operações.
 
 ## 📜 Autor
 
