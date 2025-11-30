@@ -12,11 +12,8 @@ Nestes exercícios, abordamos uma revisão dos comandos básicos CRUD em SQL, ju
 
 ## 📜 Autor
 
-- 2023 ©️ **Andre Riffen** - [Perfil GitHub](https://github.com/andreriffen)
+- 2023 ©️ - [**Andre Riffen**](https://andreriffen.github.io/resume)
 
 ## 📄 Licença
 
-Este projeto está sob a Licença MIT (Pode clonar!).
-
-Não se preocupe quanto à licença, este projeto é apenas um exercício. Você pode copiar, modificar e remixar à vontade!
-
+Este projeto está sob a Licença MIT.
